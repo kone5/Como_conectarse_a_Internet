@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Como conectarse a Internet</string>
     <string name="aviso">AVISO</string>
+    <string name="todo">TODO</string>
 </resources>
